@@ -16,4 +16,7 @@ Flappy Bird is a classic arcade game where the player controls a bird trying to 
 - **Tap/Press Enter**: Start the game or make the bird flap.
 - **Spacebar**: Pause/Resume the game.
 
+
+![Flappy Bird](FlappyBird.png)
+
   
